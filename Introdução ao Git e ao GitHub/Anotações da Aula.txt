@@ -1,0 +1,3 @@
+Introdução ao GIT
+Controle de Versão / Armazenamento em Nuvem / Trabalho em Equipe / Melhorar seu código / Reconhecimento
+SHA1 --> Algorítmo de Criptograficação --> Sistema Distribuído Seguro
